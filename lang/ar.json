@@ -1,0 +1,26 @@
+{
+    "page.home.head.title": "مثال على Next.js i18n",
+    "page.home.head.meta.description": "مثال Next.js i18n - عربي",
+    "page.home.title": "مرحبًا بك في <b> البرنامج التعليمي Next.js i18n </b>",
+    "page.home.description": "أنت الآن تستعرض الصفحة الرئيسية بالعربية 🚀",
+    "page.home.heading":"انقر فوق لي‎",
+    "page.home.buttonfield":"انقر فوق لي‎",
+    "page.home.mapfield":"انقر فوق لي‎",
+    "page.home.bikefield":"انقر فوق لي‎",
+    "page.home.BikeRegistrationNumber":"انقر فوق لي‎",
+    "page.home.BikeEngineNumber":"انقر فوق لي‎",
+    "page.home.KerbWeight":"انقر فوق لي‎",
+    "page.home.power":"انقر فوق لي‎",
+    "page.home.Torque":"انقر فوق لي‎",
+    "page.home.Wheelbase":"انقر فوق لي‎",
+    "page.home.SeatHeight":"انقر فوق لي‎",
+    "page.home.FuelTankCapacity":"انقر فوق لي‎",
+    "page.home.rake":"انقر فوق لي‎",
+    "page.home.trail":"انقر فوق لي‎",
+    "page.home.brakes":"انقر فوق لي‎",
+    "page.home.BikeEngineNumbers":"انقر فوق لي‎"
+  
+    
+  
+  }
+  

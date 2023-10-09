@@ -1,0 +1,24 @@
+{
+    "page.home.head.title": "Next.js i18n example",
+    "page.home.head.meta.description": "Next.js i18n example - English",
+    "page.home.title": "Welcome to <b>Next.js i18n tutorial</b>",
+    "page.home.description": "You are currently viewing the homepage in English 🚀",
+    "page.home.heading":"Text feild",
+    "page.home.buttonfield":"button",
+    "page.home.mapfield":"map",
+    "page.home.bikefield":"Bike Title",
+    "page.home.BikeRegistrationNumber":"Bike Registration Number",
+    "page.home.BikeEngineNumber":"Bike Engine Number",
+    "page.home.KerbWeight":"KerbWeight",
+    "page.home.power":"power",
+    "page.home.Torque":"Torque",
+    "page.home.Wheelbase":"Wheelbase",
+    "page.home.SeatHeight":"Seat Height",
+    "page.home.FuelTankCapacity":"Fuel Tank Capacity (in litres)",
+    "page.home.rake":"Rake)",
+    "page.home.trail":"Trail",
+    "page.home.brakes":"Brakes",
+    "page.home.BikeEngineNumbers":"Bike Engine Numbers"
+  
+  }
+  
